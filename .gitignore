@@ -1,0 +1,4 @@
+*.docx
+~$*
+desktop.ini
+/.ipynb_checkpoints/*
