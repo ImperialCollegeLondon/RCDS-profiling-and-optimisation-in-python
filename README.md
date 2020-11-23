@@ -18,6 +18,14 @@ Alternatively, if you don’t have and don’t want to create a Google account, 
 
 The presentation and the Notebooks may be found [here](https://github.com/coolernato/Profiling-and-Optimisation-in-Python/archive/master.zip). You should download them before the course. However, you do not need to read them before attending.
 
+## Pacakages
+
+Whether you attend a face-to-face or webinar version of this course, if you intend to run the code in Anaconda, install the following packes in your Python environment before you attend to avoid having to do so during the course:
+
+* pycallgraph
+* graphviz
+* pympler
+
 ## Colab Links
 
 The following are links to the Notebooks which will open in Google Colab. To use these links, you will need to log into a Google account. Once you click the link, you may see a page saying "Connected apps". If Google Colaboratory is in the list, click it to open the notebook. If it's not, click "Connect more apps...", search for "Colab" and connect the app before selecting it.
