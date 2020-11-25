@@ -37,5 +37,6 @@ The following are links to the Notebooks which will open in Google Colab. To use
 * [Optimising Loops](<https://colab.research.google.com/github/coolernato/Profiling-and-Optimisation-in-Python/blob/master/Optimisation_ Optimising Loops.ipynb>)
 * [NumPy](<https://colab.research.google.com/github/coolernato/Profiling-and-Optimisation-in-Python/blob/master/Optimisation_ NumPy.ipynb>)
 * [Parallelism](<https://colab.research.google.com/github/coolernato/Profiling-and-Optimisation-in-Python/blob/master/Optimisation_ Parallelism.ipynb>)
+* [Compilation](<https://colab.research.google.com/github/coolernato/Profiling-and-Optimisation-in-Python/blob/master/Optimisation_Compilation.ipynb>)
 * [Exercise](<https://colab.research.google.com/github/coolernato/Profiling-and-Optimisation-in-Python/blob/master/Optimisation_ Exercise.ipynb>)
 * [Conclusion](<https://colab.research.google.com/github/coolernato/Profiling-and-Optimisation-in-Python/blob/master/Conclusion.ipynb>)
