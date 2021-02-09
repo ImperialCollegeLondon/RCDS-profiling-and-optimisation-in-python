@@ -1,3 +1,5 @@
+https://mybinder.org/v2/gh/coolernato/Profiling-and-Optimisation-in-Python/Binder
+
 # Profiling-and-Optimisation-in-Python
 
 ## Pre-Course Instructions
