@@ -1,4 +1,4 @@
-https://mybinder.org/v2/gh/coolernato/Profiling-and-Optimisation-in-Python/Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coolernato/Profiling-and-Optimisation-in-Python/Binder)
 
 # Profiling-and-Optimisation-in-Python
 
