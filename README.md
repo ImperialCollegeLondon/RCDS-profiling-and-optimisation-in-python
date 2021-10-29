@@ -8,7 +8,7 @@ To complete this course, you will need to run Jupyter Notebook files on your com
 
 Alternatively, if you don’t have and don’t want to create a Google account, you may instead install Anaconda on your computer by downloading the appropriate distribution from [here](https://www.anaconda.com/distribution/).
 
-The presentation and the Notebooks may be found [here](https://github.com/coolernato/Profiling-and-Optimisation-in-Python/archive/master.zip). You should download them before the course. However, you do not need to read them before attending.
+The presentation and the Notebooks may be found [here](https://github.com/coolernato/Profiling-and-Optimisation-in-Python/archive/refs/heads/master.zip). You should download them before the course. However, you do not need to read them before attending.
 
 ### Face to Face Course
 
@@ -16,13 +16,13 @@ This course will take place in an ICT computer room and so laptops are not requi
 
 Alternatively, if you don’t have and don’t want to create a Google account, Imperial computers (including those in the computer rooms) will have Anaconda available to them through the Software Hub which will also allow the running of Jupyter Notebooks. You may also chose to install Anaconda on your personal machine by downloading the appropriate distribution from [here](https://www.anaconda.com/distribution/).
 
-The presentation and the Notebooks may be found [here](https://github.com/coolernato/Profiling-and-Optimisation-in-Python/archive/master.zip) If you want to undertake the course on your own laptop, you may want to download them. However, you do not need to read them before attending.
+The presentation and the Notebooks may be found [here](https://github.com/coolernato/Profiling-and-Optimisation-in-Python/archive/refs/heads/master.zip) If you want to undertake the course on your own laptop, you may want to download them. However, you do not need to read them before attending.
 
 ### Self-Study Instructions
 
 This course can also be completed through self-study from this repository. To do this, you will need to run the Jupyter Notebooks on your computer. The easiest way to do this is to ensure you have a Google account and are logged in on the your browser. Then, you can follow the links in the "Colab Links" section of this file in order from top-to-bottom in order to work through the notebooks. You will need to create a copy of the notebooks by clicking File>Save a Copy in Drive. This will create a copy of the notebook in your Google Drive and allow you to edit it to add notes, run examples and complete exercises. Underneath the code cells left for you to complete each exercise, there will be a code cell saying "Show Code". Clicking on this will show a sample solution to check your answer.
 
-Alternatively, if you don’t have and don’t want to create a Google account, you may instead install Anaconda on your computer by downloading the appropriate distribution from [here](https://www.anaconda.com/distribution/). The presentation and the Notebooks may be downloaded [here](https://github.com/coolernato/Profiling-and-Optimisation-in-Python/archive/master.zip). You can then open the notebooks using Anaconda (open them in the order written in the "Colab Links" section below). You can edit these files to add notes, run examples or write your solutions to the exercises. Under the code cell left blank for you to awrite your solution to these exercises and the code cell below contains a sample solution for you to compare your answer to.
+Alternatively, if you don’t have and don’t want to create a Google account, you may instead install Anaconda on your computer by downloading the appropriate distribution from [here](https://www.anaconda.com/distribution/). The presentation and the Notebooks may be downloaded [here](https://github.com/coolernato/Profiling-and-Optimisation-in-Python/archive/refs/heads/master.zip). You can then open the notebooks using Anaconda (open them in the order written in the "Colab Links" section below). You can edit these files to add notes, run examples or write your solutions to the exercises. Under the code cell left blank for you to awrite your solution to these exercises and the code cell below contains a sample solution for you to compare your answer to.
 
 ## Pacakages
 
