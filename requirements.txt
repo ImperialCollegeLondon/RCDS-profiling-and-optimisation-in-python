@@ -1,0 +1,4 @@
+ipykernel
+pympler
+line_profiler
+numba
