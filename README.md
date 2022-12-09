@@ -33,7 +33,7 @@ Whether you attend a face-to-face or webinar version of this course or if you in
 * line_profiler
 * numba
 
-Alternatively, if you're familiar with requirements files, you may create an environment using the ```requirements.txt``` in this repository.
+Alternatively, if you're familiar with requirements files, you may create an environment using the ```requirements.txt``` file in this repository.
 
 ## Colab Links
 
