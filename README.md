@@ -49,3 +49,5 @@ The following are links to the Notebooks which will open in Google Colab. To use
 * [Compilation](<https://colab.research.google.com/github/coolernato/Profiling-and-Optimisation-in-Python/blob/master/Optimisation_Compilation.ipynb>)
 * [Exercise](<https://colab.research.google.com/github/coolernato/Profiling-and-Optimisation-in-Python/blob/master/Optimisation_ Exercise.ipynb>)
 * [Conclusion](<https://colab.research.google.com/github/coolernato/Profiling-and-Optimisation-in-Python/blob/master/Conclusion.ipynb>)
+
+You do not need to look at these notebooks before the course unless you want to.
