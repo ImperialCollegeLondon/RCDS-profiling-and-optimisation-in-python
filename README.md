@@ -51,3 +51,10 @@ The following are links to the Notebooks which will open in Google Colab. To use
 * [Conclusion](<https://colab.research.google.com/github/coolernato/Profiling-and-Optimisation-in-Python/blob/master/Conclusion.ipynb>)
 
 You do not need to look at these notebooks before the course unless you want to.
+
+## Post-Course Follow-Up: ReCoDE Exemplar
+The RCDS team has curated a collection of annotated [exemplar projects](https://imperialcollegelondon.github.io/ReCoDE-home/exemplars/) known as [ReCoDE](https://imperialcollegelondon.github.io/ReCoDE-home/) which demonstrate core research computing and data science principles applied to real problems. Each exemplar is a real project created by an Imperial student based on their research. Each exemplar is accompanied by detailed descriptions of how they work, and the design decisions taken when constructing the code. There are two Fortran exemplars:
+
+* [**Monte Carlo for Fun**](https://recode-mcmcff.readthedocs.io/en/latest/): This exemplar Introduces Markov Chain Monte Carlo in Python, including a [discussion](https://recode-mcmcff.readthedocs.io/en/latest/learning/06%20Speeding%20It%20Up.html) of how to speed it up.
+* [**Euler-Maruyama method**](https://imperialcollegelondon.github.io/ReCoDe-Euler-Maruyama/) This exemplar demosntrates how sovle stochastic differential equations in Python, including a [parallel implementation](https://imperialcollegelondon.github.io/ReCoDe-Euler-Maruyama/5-Parallel-Euler-Maruyama-Class/) using joblib.
+* [**SPH Solver for 2D Navier-Stokes**](https://imperialcollegelondon.github.io/ReCoDE-SPH-solver-2D-NS/): This exemplar solves the Navier-Stokes equation in 2D using the SPH method. The code is written in C++ but includes a discussion of about [profiling](https://imperialcollegelondon.github.io/ReCoDE-SPH-solver-2D-NS/A3.Profiling/) and [optimisation](https://imperialcollegelondon.github.io/ReCoDE-SPH-solver-2D-NS/8.Efficient_Programming/).
