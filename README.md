@@ -32,10 +32,11 @@ If you want to run the course notes locally, you can download them by clicking [
 
 If you intend to download the course materials and use them locally, install the following packages in your Python environment before you attend/begin self-studying the course:
 
-* matplotlib
-* numpy
 * ipykernel
-* scipy
+* pympler
+* line_profiler
+* numba
+* joblib
 
 These packages are also specified in the ```requirements.txt``` file, which you can use to install the appropriate files if you're familiar with requirements files.
 
