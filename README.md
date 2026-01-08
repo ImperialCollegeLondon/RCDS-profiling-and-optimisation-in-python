@@ -18,7 +18,7 @@ You will need to run Jupyter Notebook files on your computer. You can run the fi
 
 ## Opening a Codespace
 
-A [Codespace](https://docs.github.com/en/codespaces/overview) is a development environment hosted by GitHub directly from a repository. To use this, you will need to be signed into a GitHub account. To open the Codespace, click the green ```Code``` button at the top right of the repository. Make sure you're in the ```Codespaces``` tab and click the ```Create new codespace``` button (it will use the repository's default branch). This will create a Codespace of your own. This will take a minute or so to initialise. You may be asked to reload the page. If so, do reload the page. If the Codespace seems to get stuck loading, reloading the page can often fix the problem.
+A [Codespace](https://docs.github.com/en/codespaces/overview) is a development environment hosted by GitHub directly from a repository. To use this, you will need to be signed into a GitHub account. To open the Codespace, click the green ```Code``` button at the top right of the repository. Make sure you're in the ```Codespaces``` tab and click the ```Create new codespace on master``` button. This will create a Codespace of your own. This will take a minute or so to initialise. You may be asked to reload the page. If so, do reload the page. If the Codespace seems to get stuck loading, reloading the page can often fix the problem.
 
 Once your Codespace has initialised, it will remain associated with your GitHub account for around a month, when it will expire. Your Codespace will be given a name like "fuzzy-barnacle" so you can identify it. To reopen it on a future occasion, click the ```Code``` button again, then select the Codespace, click ```Open```, then ```Open in Browser```.
 
